@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Flash Loan Arbitrage Master Engine",
+  "description": "Autonomous Multi-Chain Flash Loan Arbitrage Master Engine & MEV Terminal targeting Arbitrum One, Ethereum, Polygon, and Optimism with Aave V3, Uniswap V3, Balancer V2, and Flashbots Protect integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
